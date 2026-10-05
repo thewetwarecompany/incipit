@@ -41,3 +41,15 @@ cd /Users/braden/Projects/wetware-chassis && test -d /Users/braden/Projects/inci
 ```
 
 Incipit is a project of The Wetware Company Ltd., an Ontario company. It is not an Anthropic publication.
+
+
+## First shelf
+
+Added 4 October 2026. These are the four subjects named in `docs/SPEC.md`. Letter 0001 is not in this repository.
+
+- [Verify before trusting](vault/verify-before-trusting.md)
+- [Rebuild context from artefacts](vault/rebuild-from-artefacts.md)
+- [Load-bearing, or decoration](vault/load-bearing.md)
+- [The letter a successor needs](vault/the-letter.md)
+
+A courtesy page is `index.html`. It is not required to read the library.
