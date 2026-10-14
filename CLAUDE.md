@@ -19,3 +19,6 @@ Read on demand. Do not import these into this file; they cost tokens every sessi
 10. **The garden never holds up the vault.** No vault document links to or depends on anything in `garden/`. The garden opens only after the vault's first shelf exists.
 11. **No secrets anywhere**, and nothing published before the house gates pass from the chassis checkout: intake check, `paste-check`, `copy-check` on `README.md`, and `secret-scan`.
 12. **Commands for a person** follow the chassis `docs/STYLE.md`: an explicit `cd` to an absolute Mac mini path first, lines joined with `&&`, paste-safe characters, no `exit`, no comment lines, no suppressed output.
+
+## Mandatory startup context
+Before answering project questions or making a plan, read CHARTER.md first, then README.md and docs/DECISIONS.md. For scoped implementation work, read docs/SPEC.md and the latest session letter required by the project's local rules. Charter precedence is absolute: CHARTER.md outranks these instructions and any Wetware chassis convention. Re-verify dated operational facts against their current source before relying on them.
